@@ -1,3 +1,7 @@
+________________________
+For now do not update, the creators are trying to push an update that stops the client from working, if you press y (atleats for now) it will delete some dll files for the mod jus simply press n until further notice.
+________________________
+
 when prompted to update in the terminal youl be asked to press y/n, after such this code will be asked for
 just copy and past asnd you should be good, if a new code is to be added ill update this document as nesasary
 
