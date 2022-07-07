@@ -1,0 +1,8 @@
+when prompted to update in the terminal youl be asked to press y/n, after such this code will be asked for
+just copy and past asnd you should be good, if a new code is to be added ill update this document as nesasary
+
+______
+code
+______
+
+PvB4PuOpk5cuBs7b
